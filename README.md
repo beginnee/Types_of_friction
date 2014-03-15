@@ -1,0 +1,2 @@
+This is an interactive tutorial showing the two types of friction,sliding friction and rolling friction.It shows how the frictional force vary with the angle of incination and the amount of surface area in contact. It requires Adobe Flash Player to be installed. 
+If the Adobe Flash Player is already installed,just open index.html with any browser ,Google Chrome or Mozilla Firefox,that supports Adobe Flash Player.
